@@ -1,5 +1,5 @@
 numpy
-scikit-learn
+scikit-learn==1.1.3
 streamlit
 streamlite_option_menu
 matplotlib
